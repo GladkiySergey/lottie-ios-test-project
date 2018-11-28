@@ -1,0 +1,6 @@
+framework module Pods_LottieAnnUITests {
+  umbrella header "Pods-LottieAnnUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
