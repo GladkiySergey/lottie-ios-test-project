@@ -1,4 +1,3 @@
-//
 //  ViewController.swift
 //  LottieAnn
 //
@@ -20,7 +19,7 @@ class ViewController: UIViewController {
         slider.addTarget(self, action: #selector(onSliderCharged(sender:)), for: .valueChanged)
         
         // Do any additional setup after loading the view, typically from a nib.
-        animation = LOTAnimationView.init(name: "whale")
+        animation = LOTAnimationView.init(name: "Logo")
 //        animation.frame = CGRect(x: 0, y: 100, width: self.view.frame.width, height: 500)
         animation.contentMode = .scaleAspectFit
         animation.loopAnimation = true

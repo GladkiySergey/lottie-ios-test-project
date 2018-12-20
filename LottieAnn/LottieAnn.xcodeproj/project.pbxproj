@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		04709A8B219DF33200AC116C /* whale.json in Resources */ = {isa = PBXBuildFile; fileRef = 04709A8A219DF33200AC116C /* whale.json */; };
+		04B42F8621CC2BBF0003AB71 /* Logo.json in Resources */ = {isa = PBXBuildFile; fileRef = 04B42F8521CC2BBF0003AB71 /* Logo.json */; };
 		04BCD55F219DF1200038AABD /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04BCD55E219DF1200038AABD /* AppDelegate.swift */; };
 		04BCD561219DF1200038AABD /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04BCD560219DF1200038AABD /* ViewController.swift */; };
 		04BCD564219DF1200038AABD /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 04BCD562219DF1200038AABD /* Main.storyboard */; };
@@ -15,9 +15,9 @@
 		04BCD569219DF1230038AABD /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 04BCD567219DF1230038AABD /* LaunchScreen.storyboard */; };
 		04BCD574219DF1230038AABD /* LottieAnnTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04BCD573219DF1230038AABD /* LottieAnnTests.swift */; };
 		04BCD57F219DF1230038AABD /* LottieAnnUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04BCD57E219DF1230038AABD /* LottieAnnUITests.swift */; };
-		4AA81C7DA905EE9DBDD78DF7 /* Pods_LottieAnnUITests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 2555EF48A61404A657F5A914 /* Pods_LottieAnnUITests.framework */; };
+		2659B8D02362A000AE1AE080 /* Pods_LottieAnnUITests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = DEEA636B2660920DAC36917E /* Pods_LottieAnnUITests.framework */; };
 		847A4785D11202006B214632 /* Pods_LottieAnn.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = F5C4018AAA09B7F8118B6101 /* Pods_LottieAnn.framework */; };
-		BB9BDCD477195CD4F4D7FDFD /* Pods_LottieAnnTests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 254D4287C44E9056ED6A8179 /* Pods_LottieAnnTests.framework */; };
+		DA0F75E88482D5D567552BF5 /* Pods_LottieAnnTests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 57751C59E4E7FFF35C136595 /* Pods_LottieAnnTests.framework */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -38,7 +38,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		04709A8A219DF33200AC116C /* whale.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = whale.json; sourceTree = SOURCE_ROOT; };
+		04B42F8521CC2BBF0003AB71 /* Logo.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Logo.json; sourceTree = SOURCE_ROOT; };
 		04BCD55B219DF1200038AABD /* LottieAnn.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = LottieAnn.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		04BCD55E219DF1200038AABD /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		04BCD560219DF1200038AABD /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -53,11 +53,11 @@
 		04BCD57E219DF1230038AABD /* LottieAnnUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LottieAnnUITests.swift; sourceTree = "<group>"; };
 		04BCD580219DF1230038AABD /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		09DD1E9E34FF602E7B414998 /* Pods-LottieAnnUITests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-LottieAnnUITests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-LottieAnnUITests/Pods-LottieAnnUITests.debug.xcconfig"; sourceTree = "<group>"; };
-		254D4287C44E9056ED6A8179 /* Pods_LottieAnnTests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_LottieAnnTests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		2555EF48A61404A657F5A914 /* Pods_LottieAnnUITests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_LottieAnnUITests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		43EA4CF9615CC664B257DA8B /* Pods-LottieAnn.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-LottieAnn.debug.xcconfig"; path = "Pods/Target Support Files/Pods-LottieAnn/Pods-LottieAnn.debug.xcconfig"; sourceTree = "<group>"; };
+		57751C59E4E7FFF35C136595 /* Pods_LottieAnnTests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_LottieAnnTests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		78698F6A5EE0175CB64F7383 /* Pods-LottieAnnTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-LottieAnnTests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-LottieAnnTests/Pods-LottieAnnTests.debug.xcconfig"; sourceTree = "<group>"; };
 		CFAF92868BD85FBE9354F299 /* Pods-LottieAnnUITests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-LottieAnnUITests.release.xcconfig"; path = "Pods/Target Support Files/Pods-LottieAnnUITests/Pods-LottieAnnUITests.release.xcconfig"; sourceTree = "<group>"; };
+		DEEA636B2660920DAC36917E /* Pods_LottieAnnUITests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_LottieAnnUITests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		E4DA79DB0FB1E9773746240C /* Pods-LottieAnn.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-LottieAnn.release.xcconfig"; path = "Pods/Target Support Files/Pods-LottieAnn/Pods-LottieAnn.release.xcconfig"; sourceTree = "<group>"; };
 		EBD34E18FAF1D70F7D5C5674 /* Pods-LottieAnnTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-LottieAnnTests.release.xcconfig"; path = "Pods/Target Support Files/Pods-LottieAnnTests/Pods-LottieAnnTests.release.xcconfig"; sourceTree = "<group>"; };
 		F5C4018AAA09B7F8118B6101 /* Pods_LottieAnn.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_LottieAnn.framework; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -76,7 +76,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				BB9BDCD477195CD4F4D7FDFD /* Pods_LottieAnnTests.framework in Frameworks */,
+				DA0F75E88482D5D567552BF5 /* Pods_LottieAnnTests.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -84,7 +84,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				4AA81C7DA905EE9DBDD78DF7 /* Pods_LottieAnnUITests.framework in Frameworks */,
+				2659B8D02362A000AE1AE080 /* Pods_LottieAnnUITests.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -116,8 +116,8 @@
 		04BCD55D219DF1200038AABD /* LottieAnn */ = {
 			isa = PBXGroup;
 			children = (
-				04709A8A219DF33200AC116C /* whale.json */,
 				04BCD55E219DF1200038AABD /* AppDelegate.swift */,
+				04B42F8521CC2BBF0003AB71 /* Logo.json */,
 				04BCD560219DF1200038AABD /* ViewController.swift */,
 				04BCD562219DF1200038AABD /* Main.storyboard */,
 				04BCD565219DF1230038AABD /* Assets.xcassets */,
@@ -162,8 +162,8 @@
 			isa = PBXGroup;
 			children = (
 				F5C4018AAA09B7F8118B6101 /* Pods_LottieAnn.framework */,
-				254D4287C44E9056ED6A8179 /* Pods_LottieAnnTests.framework */,
-				2555EF48A61404A657F5A914 /* Pods_LottieAnnUITests.framework */,
+				57751C59E4E7FFF35C136595 /* Pods_LottieAnnTests.framework */,
+				DEEA636B2660920DAC36917E /* Pods_LottieAnnUITests.framework */,
 			);
 			name = Frameworks;
 			sourceTree = "<group>";
@@ -278,8 +278,8 @@
 			files = (
 				04BCD569219DF1230038AABD /* LaunchScreen.storyboard in Resources */,
 				04BCD566219DF1230038AABD /* Assets.xcassets in Resources */,
+				04B42F8621CC2BBF0003AB71 /* Logo.json in Resources */,
 				04BCD564219DF1200038AABD /* Main.storyboard in Resources */,
-				04709A8B219DF33200AC116C /* whale.json in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -556,6 +556,7 @@
 			baseConfigurationReference = 43EA4CF9615CC664B257DA8B /* Pods-LottieAnn.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = 5CU989P22P;
 				INFOPLIST_FILE = LottieAnn/Info.plist;
@@ -565,6 +566,7 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = Home.LottieAnn;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE_SPECIFIER = "";
 				SWIFT_VERSION = 4.2;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
@@ -575,6 +577,7 @@
 			baseConfigurationReference = E4DA79DB0FB1E9773746240C /* Pods-LottieAnn.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = 5CU989P22P;
 				INFOPLIST_FILE = LottieAnn/Info.plist;
@@ -584,6 +587,7 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = Home.LottieAnn;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE_SPECIFIER = "";
 				SWIFT_VERSION = 4.2;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
